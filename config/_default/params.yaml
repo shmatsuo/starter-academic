@@ -34,8 +34,7 @@ coordinates:
   longitude: '-77.0693864139769'
 directions: Enter Building and take the elevator to Suite 603 on Floor 6. Ping me by email when you arrive.
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
+  - ask my secreatry from the following link
 appointment_url: 'mailto:secretary@matsuo-research.com'
 contact_links:
   #- icon: twitter
@@ -77,9 +76,9 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
-diagram: false
-privacy_pack: false
+math: true
+diagram: true
+privacy_pack: true
 edit_page:
   repo_url: ''
   content_dir: ''
