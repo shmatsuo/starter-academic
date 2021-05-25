@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: Shinichiro.Matsuo@georgetown.edu
+#email: Shinichiro.Matsuo@georgetown.edu
 #phone: 888 888 88 88
 address:
   street: 2115 Wisconsin Ave., Suite 603, NW
@@ -34,8 +34,8 @@ coordinates:
   longitude: '-77.0693864139769'
 directions: Enter Building and take the elevator to Suite 603 on Floor 6. Ping me by email when you arrive.
 office_hours:
-  - ask my secreatry from the following link
-appointment_url: 'mailto:secretary@matsuo-research.com'
+  - Currently, I work remotely. Please ask my secretary on my avaiablity.
+appointment_url: Please ask my secreatry. If you don't know the email address input your request to the above form.
 contact_links:
   #- icon: twitter
   #  icon_pack: fab

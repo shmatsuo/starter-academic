@@ -70,8 +70,12 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a research scientist in cryptography and information security.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am working on maturing Blockchain technology from the academia side and presents research results on Blockchain security. At Georgetown University, I'm a co-directing [CyberSMART research center](https://cybersmart.georgetown.edu) and lead multi-disciplinary research among technology, economy, law, and regulation.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am now acting co-chair of [Blockchain Governance Initiative Network (BGIN)](https://bgin-global.org), where is the multi-stakeholder discussion body for blockchain technology and governance. I also founded [BSafe.network](http://bsafe.network), which is the neutral international research test network for Blockchain to promote applied academic research in blockchain technologies. It is international actual network with 27 international universities and acts the same role as NSFNet for the Internet. I also founded [CELLOS consortium](https://www.cellos-consortium.org), the international consortium for security evaluation of cryptographic protocol and serve as the head of its technical working group for securing cryptographic protocol like TLS. I lead international research collaboration on Blockchain with BSafe.network and by founding BASE (Blockchain Academic Synergized Environment) alliance with the University of Tokyo and Keio University.
+
+I am a part of many program committees on Blockchain technology and information security, and a program co-chair of Scaling Bitcoin 2018 Tokyo. I serve as the leader of security standardization project of Blockchain (ISO TC307). Previously I served as the head of Japanese national body of ISO/IEC JTC1 SC27/WG2 for cryptographic techniques, a member of advisory board cryptographic technology for the Japanese government.
+
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
