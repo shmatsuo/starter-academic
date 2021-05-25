@@ -34,8 +34,8 @@ coordinates:
   longitude: '-77.0693864139769'
 directions: Enter Building and take the elevator to Suite 603 on Floor 6. Ping me by email when you arrive.
 office_hours:
-  - Currently, I work remotely. Please ask my secretary on my avaiablity.
-appointment_url: Please ask my secreatry. If you don't know the email address input your request to the above form.
+  - Currently, I work remotely. Please ask my secretary on my avaiablity. If you don't know the email address input your request to the above form.
+# appointment_url: Please ask my secreatry.
 contact_links:
   #- icon: twitter
   #  icon_pack: fab
