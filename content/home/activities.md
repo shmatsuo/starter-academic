@@ -51,11 +51,16 @@ subtitle = ""
 +++
 ## Academic Activities
 ### Program Chair
+- IEEE International Conference on Blockchain and Cryptocurrency (ICBC) 2022
+- [Workshop on Coordination of Decentralized Finance (CoDeFi) 2021](https://fc21.ifca.ai/codecfin/)
+- [Workshop on Coordination of Decentralized Finance (CoDeFi) 2020](https://fc20.ifca.ai/codefi/)
 - [Scaling Bitcoin 2018](https://tokyo2018.scalingbitcoin.org)
 - [Security Standardization Research 2015](http://www.springer.com/us/book/9783319271514)
 - Symposium on Cryptography and Information Security 2007
 
 ### Program Committee
+- [3rd Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS)](https://brains.dnac.org)
+- [International Workshop on Cryptocurrencies and Blockchain Technology (CBT 2021), ESORICS 2021](https://deic-web.uab.cat/conferences/dpm/cbt2021/)
 - [Code Blue 2020](https://codeblue.jp/2020/en/)
 - [ACM MobiHoc Workshop on Blockchain for Network Resource Sharing (BlockNet) 2020](https://www.sigmobile.org/mobihoc/2020/workshop-BlockNet.html)
 - [International Workshop on Cryptocurrencies and Blockchain Technology (CBT 2020), ESORICS 2020](https://deic-web.uab.cat/cbt/cbt2020/)
@@ -82,6 +87,7 @@ subtitle = ""
 - Security Standardization Research
 
 ### Organizing Committee
+- [Workshop on Coordination of Decentralized Finance (CoDecFin) 2021](https://fc20.ifca.ai/codecfin/)
 - [Workshop on Coordination of Decentralized Finance (CoDeFi) 2020](https://fc20.ifca.ai/codefi/)
 - [Financial Cryptography 2013](https://fc13.ifca.ai)
 
@@ -110,16 +116,16 @@ AsiaCrypt,RFIDSec Asia, IWSEC, Indocrypt, ACISP, Information Security Conference
 - [BASE Alliance](http://base-alliance.org), acamidic-industry collaboratuive research and development alliance, steering committee member
 
 ## Standardization
-### Blockchain Governance Initiative Network (BGIN)
+### [Blockchain Governance Initiative Network (BGIN)](https://bgin-global.org)
 - Acting co-chair
 
 ### ISO/IEC JTC1/SC27
 - Head of Japan National Body committee of SC27/WG2 (HoD of Japan National Body) (2011-2015)
 - Editor of [ISO/IEC 20009-2 (Anonymous Entity Authentication - Mechanisms based on signatures using a group public key)](https://www.iso.org/standard/56913.html), [ISO/IEC 19592-1 (Secret Sharing - General)](https://www.iso.org/standard/65422.html) and [ISO/IEC 29128 (Verifiacation of Cryptographic Protocols)](https://www.iso.org/standard/45151.html).
 
-### ISO
+### ISO TC307
 - Project leader and editor of [TC307 (Blockchain and DLT) WG2 (Security, Privacy Identity)](https://www.iso.org/committee/6266604.html) Security Technical Report project
-- Liaiosn from TC307 to ISO/IEC SC27
+- Liaison from TC307 to ISO/IEC SC27
 
 ### ITU-T
 - ITU Japanese mirroring committee on Information Security (2012-2015)
