@@ -3,6 +3,12 @@
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
 
+content:
+  form:
+    provider: formspree
+    formspree:
+      id: yourID
+      
 # This file represents a page section.
 headless: true
 
