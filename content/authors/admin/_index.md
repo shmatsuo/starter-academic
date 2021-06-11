@@ -45,7 +45,7 @@ social:
   link: 'mailto:shinichiro.matsuo@georgetown.edu'
 - icon: twitter
   icon_pack: fab
-  link: hhttps://twitter.com/ShaneMatsuo
+  link: https://twitter.com/ShaneMatsuo
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?hl=en&user=foVf5eUAAAAJ
