@@ -1,10 +1,10 @@
 ---
 title: "Blockchain Specific Outcomes"
 
-event: G20 meets G-20: Blockchain Multi-stakeholder Workshop
+event: "G20 meets G-20: Blockchain Multi-stakeholder Workshop"
 event_url: https://blockchain.pwias.ubc.ca/event
 
-location: University of British Columbia
+location: "University of British Columbia"
 # address:
 #  street: Convene
 #  city: Tysons Corner
