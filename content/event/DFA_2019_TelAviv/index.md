@@ -1,5 +1,5 @@
 ---
-title: Lecture 1: Why we need Multi-stakeholder discussion - What G20 discussed"
+title: "Lecture 1: Why we need Multi-stakeholder discussion - What G20 discussed"
 
 event: Decentralized Financial Architecture Workshop
 event_url: https://dfa2019.bitcoinedge.org
