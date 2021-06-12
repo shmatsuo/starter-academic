@@ -2,16 +2,14 @@
 title: "How Global Scale Academic Research Network helps Crypto-Economics Research"
 
 event: "Crypto Economics Security Conference 2017"
-event_url:　"http://cesc.io"
-
-
+event_url:　http://cesc.io
 location: University of California Berkeley
-address:
+#address:
 #  street:
-city: Berkeley
-region: CA
+#city: Berkeley
+#region: CA
 #  postcode:
-country: USA
+#country: USA
 
 
 #summary: An example talk using Wowchemy's Markdown slides feature.
