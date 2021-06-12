@@ -5,12 +5,12 @@ event: "CONSTRUCT 2017"
 #event_url:　"https://www.coindesk.com/events/construct-2017/"
 
 location:
-  address:
+#  address:
 #  street:
-  city: San Francisco
-  region: CA
+#  city: San Francisco
+#  region: CA
 #  postcode:
-  country: USA
+#  country: USA
 
 
 # summary: "This is a short presentation at the session: Not Your Average White Paper: Academic Research on Blockchains."
