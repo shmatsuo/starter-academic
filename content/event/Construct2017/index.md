@@ -2,7 +2,7 @@
 title: "Panel Discussion:Academic Comparison of Protocols"
 
 event: "CONSTRUCT 2017"
-event_url:　"https://www.coindesk.com/events/construct-2017/"
+event_url:　https://www.coindesk.com/events/construct-2017/
 
 location:
 #  address:
