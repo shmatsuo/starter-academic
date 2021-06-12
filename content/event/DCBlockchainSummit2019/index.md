@@ -5,12 +5,12 @@ event: DC Blockchain Summit 2019
 #event_url: https://dcblockchainsummit.com
 
 location: Georgetown University
-address:
+#address:
 #  street:
-city: Washington
-region: DC
+#city: Washington
+#region: DC
 #  postcode:
-country: USA
+#country: USA
 
 
 # summary: "This is a short presentation at the session: Not Your Average White Paper: Academic Research on Blockchains."
