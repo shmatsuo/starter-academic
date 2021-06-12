@@ -6,10 +6,10 @@ event_url: https://navenue.jp/btokyo2019/
 
 location: "Gajoen Tokyo"
  address:
-  street:
+#  street:
   city: Meguro
   region: Tokyo
-  postcode:
+#  postcode:
   country: Japan
 
 #summary: An example talk using Wowchemy's Markdown slides feature.
