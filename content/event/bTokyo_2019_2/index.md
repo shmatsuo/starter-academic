@@ -4,12 +4,12 @@ title: "Building a sound ecosystem through multi-stakeholder governance"
 event: b.tokyo 2019
 event_url: https://navenue.jp/btokyo2019/
 
-location: Gajoen Tokyo
+location: "Gajoen Tokyo"
  address:
   street:
   city: Meguro
   region: Tokyo
-  postcode: 
+  postcode:
   country: Japan
 
 #summary: An example talk using Wowchemy's Markdown slides feature.
