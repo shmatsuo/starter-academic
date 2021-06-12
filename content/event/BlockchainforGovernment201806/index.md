@@ -4,8 +4,8 @@ title: "Panel discussion: - Identity/Security/Supply Chain"
 event: Unlocking Blockchain for Government
 event_url: https://gdit.com/unlockingblockchain
 
-location: Online
-#address:
+location: Convene in TysonsCorner
+address:
   street: Convene
   city: Tysons Corner
   region: VA
