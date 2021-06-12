@@ -1,9 +1,9 @@
 ---
-title: "Risk Awareness in e-banking"
-event: "Financial Cryptography 2013"
-event_url: http://fc13.ifca.ai
+title: "Revisiting Security of Crypto Assets"
+event: "Fintech Summit 2019"
+event_url: http://finsum.jp
 
-location: Okinawa, Japan
+location: Tokyo, Japan
 #address:
 #  street:
 #city: Washington
@@ -13,12 +13,12 @@ location: Okinawa, Japan
 
 
 # summary: "This is a short presentation at the session: Not Your Average White Paper: Academic Research on Blockchains."
-abstract: "This panel discuss on the State of the Art in e-Banking Security and Usability."
+abstract: "Crypt-asset exchanges are suffering from incessant hacks, losing a decent amount of crypto-assets of their customers. While it is imperative to enhance the security of the system as a whole, including functions outside of the blockchain, now is the time to learn a lesson from past incidents and to find out the root cause of the issue. Where does the risk lie? What countermeasures should we take? Experts in both theory and practice who have been involved in the international standardization of the exchange security for more than one and a half years will present a prescription to improve the trust in the ecosystem."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2013-04-04T17:00:00Z"
-date_end: "2015-01-04T17:45:00Z"
+date: "2019-09-04T10:00:00Z"
+date_end: "2019-09-04T11:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).

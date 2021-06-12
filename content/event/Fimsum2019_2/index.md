@@ -1,9 +1,9 @@
 ---
-title: "Risk Awareness in e-banking"
-event: "Financial Cryptography 2013"
-event_url: http://fc13.ifca.ai
+title: "Designing Multi-stakeholders Cooperation in Blockchain-based Economy - New Governance System for the DeFi"
+event: Fintech Summit 2019
+event_url: http://finsum.jp
 
-location: Okinawa, Japan
+location: Tokyo, Japan
 #address:
 #  street:
 #city: Washington
@@ -13,12 +13,12 @@ location: Okinawa, Japan
 
 
 # summary: "This is a short presentation at the session: Not Your Average White Paper: Academic Research on Blockchains."
-abstract: "This panel discuss on the State of the Art in e-Banking Security and Usability."
+abstract:  "1) Designing the Governance of DeFi in participation from various stakeholders [tech-community,academia and regulators etc.], 2) Analogy of Internet Governance, 3) Is this a Decentralization or a Centralization? - DeFi and BigTech"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2013-04-04T17:00:00Z"
-date_end: "2015-01-04T17:45:00Z"
+date: "2019-09-05T10:40:00Z"
+date_end: "2019-09-05T11:55:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).

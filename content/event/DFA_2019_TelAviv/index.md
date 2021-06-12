@@ -43,7 +43,7 @@ featured: false
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://www.youtube.com/watch?v=CkvwLXxyylI&list=PL1KsqBGyjG4hT9IJ2tyS3Z5ANBfBfi3-H&index=12"
+url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
