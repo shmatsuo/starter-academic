@@ -5,7 +5,7 @@ event: "Consensus 2019"
 event_url:　https://www.coindesk.com/events/consensus-2019
 
 location: "Hilton New York Midtown"  
-address:
+#address:
 #  street:
 city: New York
 region: NY
@@ -13,7 +13,7 @@ region: NY
 country: USA
 
 
-summary: "This is a short presentation at the session: Not Your Average White Paper: Academic Research on Blockchains."
+#summary: "This is a short presentation at the session. Not Your Average White Paper.  Academic Research on Blockchains."
 # abstract:
 
 # Talk start and end times.
