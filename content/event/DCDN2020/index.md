@@ -1,25 +1,25 @@
 ---
-title: "Panel Discussion:Academic Comparison of Protocols"
+title: "Panel: Future of Finance: Multi-Stakeholder Governance for Blockchain Based New Financial Ecosystem"
 
-event: "CONSTRUCT 2017"
-event_url:　"https://www.coindesk.com/events/construct-2017/"
+event: DC Blockchain Summit 2019
+event_url: https://dcblockchainsummit.com
 
-location:
-#  address:
+location: Georgetown University
+#address:
 #  street:
-#  city: San Francisco
-#  region: CA
+#city: Washington
+#region: DC
 #  postcode:
-#  country: USA
+#country: USA
 
 
 # summary: "This is a short presentation at the session: Not Your Average White Paper: Academic Research on Blockchains."
-abstract: "The ensuing workshop will discuss the challenges of improving industry-academia collaboration toward better blockchain technology development. Topics for discussion will likely include: systematizing and teaching knowledge gained from almost a decade of running Bitcoin and other blockchains in production; creating opportunities for academics to implement, test and deploy their research; developing distributed systems simulators and other empirical research platforms for fair evaluation; and facilitating industry and academia collaboration on high-priority research projects."
+abstract: "The multistakeholder governance approach is often referenced in conjunction with Internet governance and is viewed as an optimal way to make policy decisions for a globally distributed network. Key benefits of the multistakeholder governance model include its inclusiveness and its ability to evolve. This discussion brings together experts in Internet governance and blockchain researchers to discuss a multistakeholder governance approach for the blockchain ecosystem."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2017-01-31T12:00:00Z"
-date_end: "2017-01-31T13:30:00Z"
+date: "2019-03-06T14:00:00Z"
+date_end: "2019-03-06T14:50:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -43,7 +43,7 @@ featured: false
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=CkvwLXxyylI&list=PL1KsqBGyjG4hT9IJ2tyS3Z5ANBfBfi3-H&index=12"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
