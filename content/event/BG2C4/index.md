@@ -1,5 +1,5 @@
 ---
-title: BGIN Co-chair Fireside Chat - All aboard the blockchain train: but who are missing
+title: BGIN Co-chair Fireside Chat - All aboard the blockchain train, but who are missing
 
 event: Blockchain Global Governance Conference (BG2C)
 event_url: https://www.bg2c.net/en_index.html
