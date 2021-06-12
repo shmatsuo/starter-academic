@@ -6,10 +6,10 @@ event: DC Blockchain Summit 2019
 
 location: Georgetown University
 address:
-  street:
+#  street:
 city: Washington
 region: DC
-  postcode:
+#  postcode:
 country: USA
 
 
