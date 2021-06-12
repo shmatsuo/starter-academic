@@ -2,7 +2,7 @@
 title: "How Global Scale Academic Research Network helps Crypto-Economics Research"
 
 event: "Crypto Economics Security Conference 2017"
-event_url:　http://cesc.io
+event_url: "http://cesc.io"
 
 #location: University of California Berkeley
 #address:
@@ -14,7 +14,7 @@ event_url:　http://cesc.io
 
 
 #summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Cryptocurrency and resulting crypto-economics collect much atten- tion because it can be a basis of future economics and human activities. The soundness of crypto-economics is based not only on mathematics and cryptography, but also on human behavior and game-theoretical considerations. This research is analyzing human behavior though monitoring network traffic at the time of potential fork of Bitcoin net- work and aim to build a dataset of analysis and provide foundation of further crypto-economics research. The monitoring is now conducted by four universities out of 23 universities of BSafe.network. Our talk consists of goal of monitoring, monitoring environment, current status and analysis and future works."
+abstract: "Cryptocurrency and resulting crypto-economics collect much attention because it can be a basis of future economics and human activities. The soundness of crypto-economics is based not only on mathematics and cryptography, but also on human behavior and game-theoretical considerations. This research is analyzing human behavior though monitoring network traffic at the time of potential fork of Bitcoin net- work and aim to build a dataset of analysis and provide foundation of further crypto-economics research. The monitoring is now conducted by four universities out of 23 universities of BSafe.network. Our talk consists of goal of monitoring, monitoring environment, current status and analysis and future works."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
