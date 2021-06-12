@@ -1,24 +1,24 @@
 ---
-title: Academic Research on (public) blockchain Direction and update of BSafe.network
+title: An Open, Global and Multi-Stakeholder Platform for Financial Diversity - New Genesis -
 
-event: The 2nd Workshop Basing Blockchain
-event_url: http://base-alliance.org/events/basing_blockchain_2_materials/
+event: Blockchain Global Governance Conference (BG2C)
+event_url: https://www.bg2c.net/en_index.html
 
-location: Keio University
-address:
+location: Online
+#address:
 #  street: 450 Serra Mall
-  city: Tokyo
+#  city: Tokyo
 #  region: CA
 #  postcode: '94305'
-  country: Japan
+#  country: Japan
 
 #summary: An example talk using Wowchemy's Markdown slides feature.
 #abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-06-23T13:30:00Z"
-date_end: "2018-06-23T14:50:00Z"
+date: "2020-03-10T13:05:00Z"
+date_end: "2020-03-10T13:50:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -41,8 +41,8 @@ featured: false
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: "http://base-alliance.org/events/basing_blockchain_2_materials/1_ShinIchiroMatsuo-BSafeUpdate.pdf"
-url_video: ""
+url_slides: ""
+url_video: "https://vimeo.com/395639333"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -58,15 +58,3 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-#{{% callout note %}}
-#Click on the **Slides** button above to view the built-in slides feature.
-#{{% /callout %}}
-#
-#Slides can be added in a few ways:
-#
-#- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the #front matter of the talk file
-#- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-#- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-#Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
