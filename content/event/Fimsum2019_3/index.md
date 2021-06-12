@@ -13,7 +13,7 @@ location: Tokyo, Japan
 
 
 # summary: "This is a short presentation at the session: Not Your Average White Paper: Academic Research on Blockchains."
-abstract:  "1) Designing the Governance of DeFi in participation from various stakeholders [tech-community,academia and regulators etc.], 2) Analogy of Internet Governance, 3) Is this a Decentralization or a Centralization? - DeFi and BigTech"
+# abstract:  "1) Designing the Governance of DeFi in participation from various stakeholders [tech-community,academia and regulators etc.], 2) Analogy of Internet Governance, 3) Is this a Decentralization or a Centralization? - DeFi and BigTech"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
