@@ -1,9 +1,7 @@
 ---
 title: "Make Blockchain Mature: academic and multi-stakeholder process"
-
 event: "Consensus 2019"
 event_url:　"https://www.coindesk.com/events/consensus-2019"
-
 #location: "Hilton New York Midtown"  
 #address:
 #  street:
