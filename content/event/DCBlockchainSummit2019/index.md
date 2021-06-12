@@ -1,7 +1,7 @@
 ---
 title: "Panel: Future of Finance: Multi-Stakeholder Governance for Blockchain Based New Financial Ecosystem"
 
-event: "DC Blockchain Summit 2019"
+event: DC Blockchain Summit 2019
 event_url:　https://dcblockchainsummit.com
 location: Georgetown University
 address:
