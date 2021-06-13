@@ -1,8 +1,8 @@
 ---
-title: Blockchain Security and Privacy
-summary: Verification of security of blockchain protocol and services
+title: Digital Currency and Digital Money
+summary: Building secure, private and interoperable digital money system
 tags:
-- Blockchain_Security
+- Digital_Currency
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -1,8 +1,8 @@
 ---
-title: Blockchain Security and Privacy
-summary: Verification of security of blockchain protocol and services
+title: Blockchain Governance
+summary: Building healthy ecosystem by multi-stakeholders
 tags:
-- Blockchain_Security
+- Blockchain_Governance
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

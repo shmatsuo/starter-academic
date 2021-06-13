@@ -1,8 +1,8 @@
 ---
-title: Blockchain Security and Privacy
-summary: Verification of security of blockchain protocol and services
+title: Smart Contract
+summary: Building secure and privacy enhancing smart contract mecanisms
 tags:
-- Blockchain_Security
+- Smart_Contract
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
