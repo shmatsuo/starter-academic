@@ -34,7 +34,7 @@ publishDate: "2020-05-04T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: CAPCO Journal 51: WEALTH & ASSET MANAGEMENT
+publication: "CAPCO Journal 51 WEALTH & ASSET MANAGEMENT"
 publication_short:
 
 abstract: Tokenization is expected to improve the way people trade various types of assets by using technologies, such as blockchain and smart contracts. However, it is important to understand how it is similar to, and different from, traditional securitization mechanisms in order to evaluate tokenization as an asset mobilization mechanism. This paper establishes evaluation criteria, such as bankruptcy remote, legal certainty of transactions, transparency, liquidity, and finality, and applies them to both securitization and tokenization. We find several areas where tokenization could improve securitization as well as areas in which tokenization itself needs improving. While tokenization could increase certain aspects of transparency, such as traceability, enhanced liquidity, and reduced settlement risks, in certain cases investor protection is not enough. We discuss the ways in which practices of tokenization could be enhanced in order to ensure investor protection, especially focusing on bankruptcy remote, perfection of transactions against third parties, disclosure, ratings, and finality. These additional practices could increase costs and complexities of tokenization, but they are necessary to ensure that there are adequate levels of investor protection, which is a prerequisite for an asset mobilization mechanism.
