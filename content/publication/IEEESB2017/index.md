@@ -1,5 +1,5 @@
 ---
-title: "Long-term public blockchain: Resilience against Compromise of Underlying Cryptography"
+title: "hort Paper: Long-term public blockchain: Resilience against Compromise of Underlying Cryptography"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,11 +13,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2017-08-03T00:00:00Z"
-doi: "10.1109/ICCCN.2017.8038516"
+date: "2017-04-29T00:00:00Z"
+doi: "10.1109/EuroSPW.2017.49"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-08-03T00:00:00Z"
+publishDate: "2017-04-29T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,8 +26,8 @@ publishDate: "2017-08-03T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Workshop on Privacy, Security, Trust & Blockchain Technologies, ICCCN 2017"
-publication_short: In ICCCN 2017
+publication: "IEEE Security and Privacy on the Blockchain (IEEE S&B) 2017"
+publication_short: In IEEE S&B 2017
 
 abstract: Blockchain technology realizes unforgeable and decentralized ledger by applying P2P network, cryptography and consensus mechanism over distributed net- work. Its security relies on all of these technologies. One of fundamental problem of the security of blockchain technology is compromise of underlying cryptographic algorithms. This paper shows the impact of compromise of underlying cryptography and the way to extend the validity of blockchain applying the long-term signature scheme which was standardized in ETSI. The long- term signature scheme assume the existence of centralized PKI and secure time-stamp service. In this paper, we propose a method to apply similar concept and data structure with de-centralized manner. Our scheme avoids hard-fork of original blockchain, in the case of compromise of hash function and provides smooth-fork in the case of compromise of digital signature scheme.
 
@@ -44,7 +44,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/document/8038516'
+url_pdf: 'https://www.researchgate.net/publication/318125681_Long-Term_Public_Blockchain_Resilience_against_Compromise_of_Underlying_Cryptography'
 url_code: ''
 url_dataset: ''
 url_poster: ''

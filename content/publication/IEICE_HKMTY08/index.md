@@ -1,23 +1,26 @@
 ---
-title: "Long-term public blockchain: Resilience against Compromise of Underlying Cryptography"
+title: "Classification of Hash Functions Suitable for Real-life Systems"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Masahi Sato
+- Yasumasa Hirai
+- Takashi Kurokawa
 - admin
+- Hidema Tanaka
+- Akihiro Yamamura
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2017-08-03T00:00:00Z"
-doi: "10.1109/ICCCN.2017.8038516"
+date: "2008-01-01T00:00:00Z"
+doi: "https://doi.org/10.1093/ietfec/e91-a.1.64"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-08-03T00:00:00Z"
+publishDate: "2008-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,10 +29,10 @@ publishDate: "2017-08-03T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Workshop on Privacy, Security, Trust & Blockchain Technologies, ICCCN 2017"
-publication_short: In ICCCN 2017
+publication: "IEICE Transaction of Fundamentals, Vol.E91-A No.1 (January 01, 2008)"
+publication_short:
 
-abstract: Blockchain technology realizes unforgeable and decentralized ledger by applying P2P network, cryptography and consensus mechanism over distributed net- work. Its security relies on all of these technologies. One of fundamental problem of the security of blockchain technology is compromise of underlying cryptographic algorithms. This paper shows the impact of compromise of underlying cryptography and the way to extend the validity of blockchain applying the long-term signature scheme which was standardized in ETSI. The long- term signature scheme assume the existence of centralized PKI and secure time-stamp service. In this paper, we propose a method to apply similar concept and data structure with de-centralized manner. Our scheme avoids hard-fork of original blockchain, in the case of compromise of hash function and provides smooth-fork in the case of compromise of digital signature scheme.
+abstract: Cryptographic hash functions have been widely studied and are used in many current systems. Though much re­ search has been done on the security of hash functions, system designers cannot determine which hash function is most suitable for a particular system. The main reason for this is that the current security classification does not cor­ respond very well to the security requirements of practical systems. This paper describes a new classification which is more suitable for designing real-life systems. This clas­ sification is the result of a new theoretical classification and a new qualitative classification. We show a mapping between each class and standard protocols. In addition, we show new requirements for four types of hash function for a future standard.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -44,7 +47,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/document/8038516'
+url_pdf: 'https://search.ieice.org/bin/summary.php?id=e91-a_1_64&category=A&year=2008&lang=E&abst='
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -65,8 +68,8 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- Blockchain_Security
+#projects:
+#-
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

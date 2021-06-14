@@ -1,23 +1,28 @@
 ---
-title: "Long-term public blockchain: Resilience against Compromise of Underlying Cryptography"
+title: "Accountable Security Mechanism based on Security Service Level Agreement"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Masahi Sato
+- Takeshi Takahashi
+- Joona Kannisto
+- Seppo Heikkinen
+- Bilhanan Silverajan
+- Marko Helenius
 - admin
+- Jarmo Harju
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2017-08-03T00:00:00Z"
-doi: "10.1109/ICCCN.2017.8038516"
+date: "2013-01-07T00:00:00Z"
+doi: "10.1109/ISCC.2013.6754980"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-08-03T00:00:00Z"
+publishDate: "2013-01-07T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,10 +31,10 @@ publishDate: "2017-08-03T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Workshop on Privacy, Security, Trust & Blockchain Technologies, ICCCN 2017"
-publication_short: In ICCCN 2017
+publication: In The Eighteenth IEEE Symposium on Computers and Communications 2013
+publication_short: In ISCC 2013
 
-abstract: Blockchain technology realizes unforgeable and decentralized ledger by applying P2P network, cryptography and consensus mechanism over distributed net- work. Its security relies on all of these technologies. One of fundamental problem of the security of blockchain technology is compromise of underlying cryptographic algorithms. This paper shows the impact of compromise of underlying cryptography and the way to extend the validity of blockchain applying the long-term signature scheme which was standardized in ETSI. The long- term signature scheme assume the existence of centralized PKI and secure time-stamp service. In this paper, we propose a method to apply similar concept and data structure with de-centralized manner. Our scheme avoids hard-fork of original blockchain, in the case of compromise of hash function and provides smooth-fork in the case of compromise of digital signature scheme.
+abstract: This paper proposes a mechanism that realizes accountable security using a security service level agreement (SSLA), which defines the security level of a service agreed to between a user and service provider. The mechanism consists of three major components: security expression, translation, and negotiation techniques. The security expression technique provides a means to describe security requirements and capabilities of a user and service provider, as well as the SSLA between them, in different levels of detail. The translation technique provides a means to translate such information among different levels of detail, and the negotiation technique provides a means to negotiate and agree upon the SSLA between the user and service provider. Both the user and service provider need to be accountable and non-repudiable against the agreed to SSLA in order to empower it. The mechanism uses cryptographic identities and digital signatures for this purpose. This paper demonstrates the feasibility and usability of the mechanism by describing its usage scenario and implementing its prototype, and analyzes this mechanism.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -44,7 +49,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/document/8038516'
+url_pdf: 'https://ieeexplore.ieee.org/document/6754980'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -66,7 +71,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- Blockchain_Security
+# - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
