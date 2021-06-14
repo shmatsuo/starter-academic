@@ -1,38 +1,36 @@
 ---
-title: "Classification of Hash Functions Suitable for Real-life Systems"
+title: "Multifactor Authenticated Key Renewal"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Yasumasa Hirai
-- Takashi Kurokawa
 - admin
-- Hidema Tanaka
-- Akihiro Yamamura
+- Daisuke Moriyama
+- Moti Yung
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2008-01-01T00:00:00Z"
-doi: "https://doi.org/10.1093/ietfec/e91-a.1.64"
+date: "2011-11-27T00:00:00Z"
+doi: "https://doi.org/10.1007/978-3-642-32298-3_14"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2008-01-01T00:00:00Z"
+publishDate: "2011-11-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEICE Transaction of Fundamentals, Vol.E91-A No.1 (January 01, 2008)"
+publication: "INTRUST 2011: Lecture Notes in Computer Science 7222, pp.204-220. Springer Verlag, 2011"
 publication_short:
 
-abstract: Cryptographic hash functions have been widely studied and are used in many current systems. Though much re­ search has been done on the security of hash functions, system designers cannot determine which hash function is most suitable for a particular system. The main reason for this is that the current security classification does not cor­ respond very well to the security requirements of practical systems. This paper describes a new classification which is more suitable for designing real-life systems. This clas­ sification is the result of a new theoretical classification and a new qualitative classification. We show a mapping between each class and standard protocols. In addition, we show new requirements for four types of hash function for a future standard.
+abstract: "Establishing secure channels is one of the most important and fundamental trust issues in information security. It is of high impor- tant not only for servers and users computers but also for global connectivity among any kind of network devices. Most existing technologies for establishing secure channels are based on asymmetric cryptography which requires heavy computations, large memory and complicated supporting mechanism such as PKI. In this paper, we consider the setting of authentication with small devices possibly held by humans and possibly embedded in a semi secure environment. We propose a authenticated key renewal protocol which uses only symmetric cryptography. The protocol takes into account other factors important for embedded and human held network devices: It covers multi-factor authentication to take advantage of secrets possessed by the secure device as well as the memorable password of the device owner. The protocol can, further, allow partial leakage of stored secret from a secure device. The protocol's considerations are a good demonstration of designing trusted procedure in the highly con- strained environment of mobile and embedded small devices which is expected to be prevalent in the coming years."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -47,7 +45,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://search.ieice.org/bin/summary.php?id=e91-a_1_64&category=A&year=2008&lang=E&abst='
+url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-642-32298-3_14'
 url_code: ''
 url_dataset: ''
 url_poster: ''

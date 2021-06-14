@@ -1,26 +1,27 @@
 ---
-title: "Classification of Hash Functions Suitable for Real-life Systems"
+title: "Solving a 676-Bit Discrete Logarithm Problem in $GF(3^{6n})$"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Yasumasa Hirai
-- Takashi Kurokawa
+- Takuya Hayashi
+- Naoyuki Shinohara
+- Lihua Wang
 - admin
-- Hidema Tanaka
-- Akihiro Yamamura
+- Masaaki Shirase
+- Tsuyoshi Takagi
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2008-01-01T00:00:00Z"
-doi: "https://doi.org/10.1093/ietfec/e91-a.1.64"
+date: "2012-01-01T00:00:00Z"
+doi: "10.1587/transfun.E95.A.204"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2008-01-01T00:00:00Z"
+publishDate: "2012-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,10 +30,10 @@ publishDate: "2008-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEICE Transaction of Fundamentals, Vol.E91-A No.1 (January 01, 2008)"
+publication: "IEICE Transactions of Fundamentals, 95A-1 (January 01, 2012): 204-212"
 publication_short:
 
-abstract: Cryptographic hash functions have been widely studied and are used in many current systems. Though much re­ search has been done on the security of hash functions, system designers cannot determine which hash function is most suitable for a particular system. The main reason for this is that the current security classification does not cor­ respond very well to the security requirements of practical systems. This paper describes a new classification which is more suitable for designing real-life systems. This clas­ sification is the result of a new theoretical classification and a new qualitative classification. We show a mapping between each class and standard protocols. In addition, we show new requirements for four types of hash function for a future standard.
+abstract: "Pairings on elliptic curves over finite fields are crucial for constructing various cryptographic schemes. The ηT pairing on supersingular curves over $GF(3^n)$ is particularly popular since it is efficiently implementable. Taking into account the Menezes-Okamoto-Vanstone attack, the discrete logarithm problem (DLP) in $GF(3^{6n})$ becomes a concern for the  security of cryptosystems using ηT pairings in this case. In 2006, Joux and Lercier proposed a new variant of the function field sieve in the medium prime case, named JL06-FFS. We have, however, not yet found any practical implementations on JL06-FFS over $GF(3^{6n})$. Therefore, we first fulfill such an implementation and we successfully set a new record for solving the DLP in $GF(3^{6n})$, the DLP in GF(3^{6·71}) of 676-bit size. In addition, we also compare JL06-FFS and an earlier version, named JL02-FFS, with practical experiments. Our results confirm that the former is several times faster than the latter under certain conditions."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -47,7 +48,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://search.ieice.org/bin/summary.php?id=e91-a_1_64&category=A&year=2008&lang=E&abst='
+url_pdf: 'https://search.ieice.org/bin/summary.php?id=e95-a_1_204'
 url_code: ''
 url_dataset: ''
 url_poster: ''

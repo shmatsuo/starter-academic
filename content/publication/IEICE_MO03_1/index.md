@@ -1,26 +1,23 @@
 ---
-title: "Classification of Hash Functions Suitable for Real-life Systems"
+title: "Matching Oblivious Transfer: How to Exchange Valuable Data"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Yasumasa Hirai
-- Takashi Kurokawa
 - admin
-- Hidema Tanaka
-- Akihiro Yamamura
+- Wakaha Ogata
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2008-01-01T00:00:00Z"
-doi: "https://doi.org/10.1093/ietfec/e91-a.1.64"
+date: "2003-01-01T00:00:00Z"
+doi: "10.1587/transfun.E97.A.225"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2008-01-01T00:00:00Z"
+publishDate: "2003-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,10 +26,10 @@ publishDate: "2008-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEICE Transaction of Fundamentals, Vol.E91-A No.1 (January 01, 2008)"
+publication: "IEICE Transaction of Fundamentals, Vol.E86-A No.1 (January 01, 2003): pp.189-193."
 publication_short:
 
-abstract: Cryptographic hash functions have been widely studied and are used in many current systems. Though much re­ search has been done on the security of hash functions, system designers cannot determine which hash function is most suitable for a particular system. The main reason for this is that the current security classification does not cor­ respond very well to the security requirements of practical systems. This paper describes a new classification which is more suitable for designing real-life systems. This clas­ sification is the result of a new theoretical classification and a new qualitative classification. We show a mapping between each class and standard protocols. In addition, we show new requirements for four types of hash function for a future standard.
+abstract: "When people want to exchange digital money and digital data over the Internet like a market, privacy for the participant’s behavior, security against malicious users and fair- ness for matching must be assured. We propose a new concept “Matching Oblivious Transfer,” which can match valuable digital data with hiding the price suggested by participant and securely deliver the digital data to the matched participant. Then we pro- pose a protocol for some general matching rules in which once a participant sends an order to the market, no interaction between each participant and the market is needed."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -47,7 +44,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://search.ieice.org/bin/summary.php?id=e91-a_1_64&category=A&year=2008&lang=E&abst='
+url_pdf: 'https://search.ieice.org/bin/summary.php?id=e86-a_1_189'
 url_code: ''
 url_dataset: ''
 url_poster: ''
