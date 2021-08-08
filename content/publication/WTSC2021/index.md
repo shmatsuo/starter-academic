@@ -1,36 +1,36 @@
 ---
-title: "Blockchain Gaps: From Myth to Real Life "
+title: "Fairness in ERC token markets: A Case Study of CryptoKitties"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Kentaro Sako
 - admin
-- Nat Sakimura
+- Sachin Meier
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-04-27T00:00:00Z"
-doi: "https://doi.org/10.1007/978-981-33-6052-5"
+date: "2021-03-05T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-04-27T00:00:00Z"
+publishDate: "2021-03-05T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["5"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Springer
+publication: "In Proc. of Financial Cryptography and Data Security 2021"
 publication_short:
 
-abstract: "This book analyzes the fundamental issues faced when blockchain technology is applied to real-life applications. These concerns, not only in the realm of computer science, are caused by the nature of technological design. Blockchain is considered the foundation of a wide range of flexible ecosystems; its technology is an excellent mixture of mathematics, cryptography, incentive mechanisms, economics, and pertinent regulations. The book provides an essential understanding of why such fundamental issues arise, by revising the underlying theories. Blockchain theory is thus presented in an easy-to-understand, useful manner. Also explained is the reason why blockchain is hard to adopt for real-life problems but is valuable as a foundation for flexible ecosystems. Included are directions for solving those problems and finding suitable areas for blockchain applications in the future.
-The authors of this work are experts from a wide range of backgrounds such as cryptography, distributed computing, computer science, trust, identity, regulation, and standardization. Their contributions collected here will appeal to all who are interested in blockchain and the elements surrounding it."
+abstract: "Fairness is an important trait of open, free markets. Ethereum is a platform meant to enable digital, decentralized markets. Though many researchers debate the market's fairness, there are few discussions around the fairness of automated markets, such as those hosted on Ethereum. In this paper, using pilot studies, we consider unfair factors caused by adding the program. Because CryptoKitties is one of the major blockchain-based games and has been in operation for an extended period of time, we focus on its market to examine fairness. As a result, we concluded that a gene determination algorithm in this game has little randomness, and a significant advantage to gain profit is given to players who know its bias over those who do not. We state incompleteness and impact of the algorithm and other factors. Besides, we suppose countermeasures to reduce CryptoKitties' unfairness as a market."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -38,14 +38,14 @@ The authors of this work are experts from a wide range of backgrounds such as cr
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://link.springer.com/book/10.1007/978-981-33-6052-5#about'
+url_pdf: 'https://fc21.ifca.ai/wtsc/WTSC21paper15.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -67,10 +67,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- Blockchain_Security
-- Blockchain_Governance
-- Digital_Currency_and_Digital_Money
-- Digital_Trust
+- Smart_Contract
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
