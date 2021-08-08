@@ -16,7 +16,7 @@ authors:
 # - "Equal contribution"
 
 date: "2020-02-14T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1007/978-3-030-54455-3_32"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-02-14T00:00:00Z"
@@ -67,8 +67,8 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-#projects:
-#-
+projects:
+- Smart_Contract
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
