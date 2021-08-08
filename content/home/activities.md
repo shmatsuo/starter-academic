@@ -59,6 +59,7 @@ subtitle = ""
 - Symposium on Cryptography and Information Security 2007
 
 ### Program Committee
+- [Financial Cryptography and Data Security 2022](https://fc22.ifca.ai)
 - [3rd Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS)](https://brains.dnac.org)
 - [International Workshop on Cryptocurrencies and Blockchain Technology (CBT 2021), ESORICS 2021](https://deic-web.uab.cat/conferences/dpm/cbt2021/)
 - [Code Blue 2020](https://codeblue.jp/2020/en/)
