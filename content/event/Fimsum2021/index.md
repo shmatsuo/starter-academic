@@ -13,7 +13,7 @@ location: Tokyo, Japan
 
 
 # summary: "This is a short presentation at the session: Not Your Average White Paper: Academic Research on Blockchains."
-abstract:  "In order to build "trust" in the digital world, it is necessary to develop a framework for ensuring trust by incorporating various factors such as elemental technologies (cryptography, blockchain, digital identity, etc.) and laws and regulations. In this session, experts in cryptography, digital identity, and trust service will discuss how to build trust in new normal."
+abstract: In order to build "trust" in the digital world, it is necessary to develop a framework for ensuring trust by incorporating various factors such as elemental technologies (cryptography, blockchain, digital identity, etc.) and laws and regulations. In this session, experts in cryptography, digital identity, and trust service will discuss how to build trust in new normal.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
