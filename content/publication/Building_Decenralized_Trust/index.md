@@ -7,8 +7,7 @@ title: "Building Decentralized Trust: Multidisciplinary Perspectives on the Desi
 authors:
 - Victoria Lemieux (editor)
 - Feng Chen (editor)
-- admin (Chapter author)
-
+- admin
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
