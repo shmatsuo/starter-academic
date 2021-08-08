@@ -49,7 +49,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=9971C49A4731126DF35A7ED7D837FD11?doi=10.1.1.363.1932&rep=rep1&type=pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

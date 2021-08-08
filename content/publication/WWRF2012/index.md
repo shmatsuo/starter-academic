@@ -49,7 +49,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'http://fc20.ifca.ai/wtsc/WTSC2020/WTSC20_paper_23.pdf'
+url_pdf: 'https://www.researchgate.net/publication/257136912_An_Accountable_Security_Mechanism_in_Light_of_Security_Service_Level_Agreement'
 url_code: ''
 url_dataset: ''
 url_poster: ''

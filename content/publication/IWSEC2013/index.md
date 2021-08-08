@@ -15,7 +15,7 @@ authors:
 # - "Equal contribution"
 
 date: "2013-11-18T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1007/978-3-642-41383-4_10"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2013-11-18T00:00:00Z"
@@ -45,7 +45,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://link.springer.com/chapter/10.1007%2F978-3-642-41383-4_10'
 url_code: ''
 url_dataset: ''
 url_poster: ''

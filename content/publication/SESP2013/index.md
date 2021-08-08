@@ -17,7 +17,7 @@ authors:
 # - "Equal contribution"
 
 date: "2013-05-08T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1145/2484417.2484421"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2013-05-08T00:00:00Z"
@@ -47,7 +47,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://dl.acm.org/doi/10.1145/2484417.2484421'
 url_code: ''
 url_dataset: ''
 url_poster: ''

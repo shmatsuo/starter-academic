@@ -50,7 +50,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://csrc.nist.gov/csrc/media/events/workshop-on-cryptography-for-emerging-technologies/documents/moriyama.pdf'
 url_source: ''
 url_video: ''
 

@@ -1,5 +1,5 @@
 ---
-title: "Solving a 676-Bit Discrete Logarithm Problem in GF(3^{6n})rototyping Platform for Performance Evaluation of SHA-3 Candidates"
+title: "Solving a 676-Bit Discrete Logarithm Problem in GF(3^{6n})"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -19,7 +19,7 @@ authors:
 # - "Equal contribution"
 
 date: "2010-05-26T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1007/978-3-642-13013-7_21"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2010-05-26T00:00:00Z"
@@ -49,7 +49,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-642-13013-7_21'
 url_code: ''
 url_dataset: ''
 url_poster: ''

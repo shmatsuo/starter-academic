@@ -47,7 +47,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://cups.cs.cmu.edu/soups/2012/posters/soups12_posters-takahashi.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

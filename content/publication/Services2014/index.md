@@ -18,7 +18,7 @@ authors:
 # - "Equal contribution"
 
 date: "2014-06-27T00:00:00Z"
-doi: ""
+doi: "10.1109/SERVICES.2014.31"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2014-06-27T00:00:00Z"
@@ -48,7 +48,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/document/6903254'
 url_code: ''
 url_dataset: ''
 url_poster: ''
