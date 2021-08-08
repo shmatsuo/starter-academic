@@ -1,38 +1,36 @@
 ---
-title: "Classification of Hash Functions Suitable for Real-life Systems"
+title: "PUF-Based RFID Authentication Secure and Private under Memory Leakage"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Yasumasa Hirai
-- Takashi Kurokawa
+- Daisuke Moriyama
 - admin
-- Hidema Tanaka
-- Akihiro Yamamura
+- Moti Yung
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2006-08-24T00:00:00Z"
+date: "2013-10-31T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2006-08-24T00:00:00Z"
+publishDate: "2013-10-31T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In Proceedings of NIST 2nd Cryptographic Hash Function Workshop, Santa Barbara, USA: , 2006."
+publication: "IACR Eprint archive"
 publication_short:
 
-abstract: "Cryptographic hash functions have been widely studied and are used in many current systems. Though much research has been done on the security of hash functions, system designers cannot determine which hash function is most suitable for a particular system. The main reason for this is that the current security classification does not correspond very well to the security requirements of practical systems. This paper describes a new classification which is more suitable for designing real-life systems. This classification is the result of a new theoretical classification and a new qualitative classification. We show a mapping between each class and standard protocols. In addition, we show new requirements for four types of hash function for a future standard."
+abstract: "RFID tags are getting their presence noticeable and are expected to become an important tool for e-commerce, logistics, point-ofsale transactions, and so on, representing “things” and “human holding things” in transactions. Since a huge amount of tags are expected to be needed to be attached to various “objects,” a low-cost tag manufacturing is necessary. Thus, it is hard to imagine they will implement costly hardware protection mechanisms (like co-processor, TPMs). Therefore, in this context memory leakage (side-channel) attacks become a critical threat. Another well known threat to RFID devices is tag tracing implying violation of privacy. We consider physically unclonable functions (PUFs) as tamper resilient building blocks cheaper than protected hardware, and propose security against a memory leaking adversary, trying to violate security and privacy of tags (we emphasize that digitally-oriented PUFs are easy to implement and they are more likely than TPMs to be implemented in RFID chips, more so than TPMs). We then design the first provably secure and provably private RFID authentication protocol withstanding information leakage from the entire memory of the tag, and show its two properties: (1) security against man-in-the-middle attack, and (2) privacy protection against tag tracing."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -47,7 +45,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://csrc.nist.rip/groups/ST/hash/documents/MATSUO_NISTWS_f0728_3.pdf'
+url_pdf: 'https://eprint.iacr.org/2013/712'
 url_code: ''
 url_dataset: ''
 url_poster: ''

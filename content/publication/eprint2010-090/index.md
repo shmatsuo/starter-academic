@@ -1,38 +1,39 @@
 ---
-title: "Classification of Hash Functions Suitable for Real-life Systems"
+title: "Evaluation of Hardware Performance for the SHA-3 Candidates Using SASEBO-GII"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Yasumasa Hirai
-- Takashi Kurokawa
+- Takuya Hayashi
+- Naoyuki Shinohara
+- Lihua Wang
 - admin
-- Hidema Tanaka
-- Akihiro Yamamura
+- Masaaki Shirase
+- Tsuyoshi Takagi
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2006-08-24T00:00:00Z"
+date: "2010-02-19T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2006-08-24T00:00:00Z"
+publishDate: "2010-02-19T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In Proceedings of NIST 2nd Cryptographic Hash Function Workshop, Santa Barbara, USA: , 2006."
+publication: "IACR Eprint archive"
 publication_short:
 
-abstract: "Cryptographic hash functions have been widely studied and are used in many current systems. Though much research has been done on the security of hash functions, system designers cannot determine which hash function is most suitable for a particular system. The main reason for this is that the current security classification does not correspond very well to the security requirements of practical systems. This paper describes a new classification which is more suitable for designing real-life systems. This classification is the result of a new theoretical classification and a new qualitative classification. We show a mapping between each class and standard protocols. In addition, we show new requirements for four types of hash function for a future standard."
+abstract: "Pairings on elliptic curves over finite fields are crucial for constructing various cryptographic schemes. The \eta_T pairing on supersingular curves over GF(3^n) is particularly popular since it is efficiently implementable. Taking into account the Menezes-Okamoto-Vanstone (MOV) attack, the discrete logarithm problem (DLP) in GF(3^{6n}) becomes a concern for the security of cryptosystems using \eta_T pairings in this case. In 2006, Joux and Lercier proposed a new variant of the function field sieve in the medium prime case, named JL06-FFS. We have, however, not yet found any practical implementations on JL06-FFS over GF(3^{6n}). Therefore, we first fulfilled such an implementation and we successfully set a new record for solving the DLP in GF(3^{6n}), the DLP in GF(3^{6 \ cdot 71}) of 676-bit size. In addition, we also compared JL06-FFS and an earlier version, named JL02-FFS, with practical experiments. Our results confirm that the former is several times faster than the latter under certain conditions."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -47,7 +48,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://csrc.nist.rip/groups/ST/hash/documents/MATSUO_NISTWS_f0728_3.pdf'
+url_pdf: 'https://eprint.iacr.org/2010/090'
 url_code: ''
 url_dataset: ''
 url_poster: ''

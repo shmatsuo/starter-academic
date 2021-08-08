@@ -1,38 +1,37 @@
 ---
-title: "Classification of Hash Functions Suitable for Real-life Systems"
+title: "Divisible Voting Scheme"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Yasumasa Hirai
-- Takashi Kurokawa
+- Natsuki Ishida
 - admin
-- Hidema Tanaka
-- Akihiro Yamamura
+- Wakaha Ogata
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2006-08-24T00:00:00Z"
+date: "2003-04-23T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2006-08-24T00:00:00Z"
+publishDate: "2003-04-23T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In Proceedings of NIST 2nd Cryptographic Hash Function Workshop, Santa Barbara, USA: , 2006."
+publication: "IACR Eprint archive"
 publication_short:
 
-abstract: "Cryptographic hash functions have been widely studied and are used in many current systems. Though much research has been done on the security of hash functions, system designers cannot determine which hash function is most suitable for a particular system. The main reason for this is that the current security classification does not correspond very well to the security requirements of practical systems. This paper describes a new classification which is more suitable for designing real-life systems. This classification is the result of a new theoretical classification and a new qualitative classification. We show a mapping between each class and standard protocols. In addition, we show new requirements for four types of hash function for a future standard."
+abstract: "Electronic voting is a prime application of cryptographic tools. Many researches are addressing election or confidence voting in this area. We address a new type of voting scheme ``Divisible Voting Scheme,'' in which each voter has multiple ballots where the number of ballots can be different among the voters. This type of voting is popular, however there is no secure protocol which achieves this type of voting. We first define the divisible voting scheme and show naive protocols based on existing voting schemes. Then we propose two efficient divisible voting schemes. The first scheme uses multisets, the second scheme uses L-adic representation of number of ballots. The total cost for a voter is
+O(M^2 log(N))in the first scheme and O(M log(N))in the second scheme where M is the number of candidates to vote for and N is the number of ballots for a voter."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -47,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://csrc.nist.rip/groups/ST/hash/documents/MATSUO_NISTWS_f0728_3.pdf'
+url_pdf: 'http://eprint.iacr.org/2003/074'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -1,5 +1,5 @@
 ---
-title: "A Method for Exchanging Valuable Data: How to Realize Matching Oblivious Transfer"
+title: "Brief Announcement: A Method for Exchanging Valuable Data: How to Realize Matching Oblivious Transfer"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -14,7 +14,7 @@ authors:
 # - "Equal contribution"
 
 date: "2003-07-13T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1145/872035.872064"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2003-07-13T00:00:00Z"
@@ -44,7 +44,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://dl.acm.org/doi/10.1145/872035.872064'
 url_code: ''
 url_dataset: ''
 url_poster: ''

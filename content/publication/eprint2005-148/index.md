@@ -1,38 +1,35 @@
 ---
-title: "Classification of Hash Functions Suitable for Real-life Systems"
+title: "On Universal Composable Security of Time-Stamping Protocols"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Yasumasa Hirai
-- Takashi Kurokawa
+- Toshihiko Matsuo
 - admin
-- Hidema Tanaka
-- Akihiro Yamamura
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2006-08-24T00:00:00Z"
+date: "2005-05-25T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2006-08-24T00:00:00Z"
+publishDate: "2005-05-25T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In Proceedings of NIST 2nd Cryptographic Hash Function Workshop, Santa Barbara, USA: , 2006."
+publication: "IACR Eprint archive"
 publication_short:
 
-abstract: "Cryptographic hash functions have been widely studied and are used in many current systems. Though much research has been done on the security of hash functions, system designers cannot determine which hash function is most suitable for a particular system. The main reason for this is that the current security classification does not correspond very well to the security requirements of practical systems. This paper describes a new classification which is more suitable for designing real-life systems. This classification is the result of a new theoretical classification and a new qualitative classification. We show a mapping between each class and standard protocols. In addition, we show new requirements for four types of hash function for a future standard."
+abstract: "Time-stamping protocols, which assure that a document was existed at a certain time, are applied to some useful and practical applications such as electronic patent applications and so on. There are two major time-stamping protocols, the simple protocol and the linking protocol. In the former, a time-stamp authority issues a time-stamp token that is the digital signature of the concatenated value of a hashed message and the present time. In the latter, the time-stamp authority issues a time-stamp token that is the hash value of the concatenated value of a hashed message and the previous hash value. Although security requirements and analysis for above time-stamping protocols has been discussed, there are no strict cryptographic security notions for them. In this paper, we reconsider the security requirements for time-stamping protocols and define security notions for them, in a universally composable security sense, which was proposed by Canetti. We also show that these notions can be achieved using combinations of a secure key exchange protocol, a secure symmetric encryption scheme, and a secure digital signature scheme."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -47,7 +44,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://csrc.nist.rip/groups/ST/hash/documents/MATSUO_NISTWS_f0728_3.pdf'
+url_pdf: 'https://eprint.iacr.org/2005/148'
 url_code: ''
 url_dataset: ''
 url_poster: ''

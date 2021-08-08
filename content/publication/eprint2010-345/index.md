@@ -1,38 +1,38 @@
 ---
-title: "Classification of Hash Functions Suitable for Real-life Systems"
+title: "Robust RFID Authentication Protocol with Formal Proof and Its Feasibility"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Yasumasa Hirai
-- Takashi Kurokawa
+- Miyako Ohkubo
 - admin
-- Hidema Tanaka
-- Akihiro Yamamura
+- Yoshikazu Hanatani
+- Kazuo Sakiyama
+- Kazuo Ohta
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2006-08-24T00:00:00Z"
+date: "2010-06-16T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2006-08-24T00:00:00Z"
+publishDate: "2010-06-16T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In Proceedings of NIST 2nd Cryptographic Hash Function Workshop, Santa Barbara, USA: , 2006."
+publication: "IACR Eprint archive"
 publication_short:
 
-abstract: "Cryptographic hash functions have been widely studied and are used in many current systems. Though much research has been done on the security of hash functions, system designers cannot determine which hash function is most suitable for a particular system. The main reason for this is that the current security classification does not correspond very well to the security requirements of practical systems. This paper describes a new classification which is more suitable for designing real-life systems. This classification is the result of a new theoretical classification and a new qualitative classification. We show a mapping between each class and standard protocols. In addition, we show new requirements for four types of hash function for a future standard."
+abstract: " The proloferation of RFID tags enhances everyday activities, such as by letting us reference the price, origin and circulation route of specific goods. On the other hand, this lecel of traceability gives rise to new privacy issues and the topic of developing cryptographic protocols for RFID- tags is garnering much attention. A large amount of research has been conducted in this area. In this paper, we reconsider the security model of RFID- authentication with a man-in-the-middle adversary and communication fault. We define model and security proofs via a game-based approach makes our security models compatible with formal security analysis tools. We show that an RFID authentication protocol is robust against the above attacks, and then provide game-based (hand-written) proofs and their erification by using CryptoVerif."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -47,7 +47,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://csrc.nist.rip/groups/ST/hash/documents/MATSUO_NISTWS_f0728_3.pdf'
+url_pdf: 'https://eprint.iacr.org/2010/345'
 url_code: ''
 url_dataset: ''
 url_poster: ''
