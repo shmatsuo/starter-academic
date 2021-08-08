@@ -41,7 +41,7 @@ abstract: "Pairings on elliptic curves over finite fields are crucial for constr
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
