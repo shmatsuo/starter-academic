@@ -1,5 +1,5 @@
 ---
-title: "Panel Discussion:Technology challenges toward maturing Blockchain"
+title: "Panel Discussion: Technology challenges toward maturing Blockchain"
 event: "Fintech Summit 2017"
 event_url: "http://finsum.jp"
 
@@ -56,5 +56,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["Blockchain_Security"]
 ---
