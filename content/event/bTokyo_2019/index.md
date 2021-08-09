@@ -18,7 +18,7 @@ country: Japan
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "22019-10-03T9:30:00Z"
+date: "2019-10-03T9:30:00Z"
 date_end: "2019-10-03T10:15:00Z"
 all_day: false
 
@@ -57,5 +57,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["Blockchain_Governance"]
 ---
