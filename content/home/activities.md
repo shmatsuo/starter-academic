@@ -51,14 +51,22 @@ subtitle = ""
 +++
 ## Academic Activities
 ### Program Chair
-- IEEE International Conference on Blockchain and Cryptocurrency (ICBC) 2022
-- [Workshop on Coordination of Decentralized Finance (CoDeFi) 2021](https://fc21.ifca.ai/codecfin/)
+-
+- [Workshop on Coordination of Decentralized Finance (CoDeFin) 2023](https://fc22.ifca.ai/codecfin/)
+- [IEEE International Conference on Blockchain and Cryptocurrency (ICBC) 2022](https://icbc2022.ieee-icbc.org)
+- [Workshop on Coordination of Decentralized Finance (CoDeFin) 2022](https://fc22.ifca.ai/codecfin/)
+- [Workshop on Coordination of Decentralized Finance (CoDeFin) 2021](https://fc21.ifca.ai/codecfin/)
 - [Workshop on Coordination of Decentralized Finance (CoDeFi) 2020](https://fc20.ifca.ai/codefi/)
 - [Scaling Bitcoin 2018](https://tokyo2018.scalingbitcoin.org)
 - [Security Standardization Research 2015](http://www.springer.com/us/book/9783319271514)
 - Symposium on Cryptography and Information Security 2007
 
 ### Program Committee
+- [International Workshop on Cryptocurrencies and Blockchain Technology (CBT 2023), ESORICS 2023](https://deic.uab.cat/cbt/cbt2023/)
+- [ACM CCS 2023, Blockchain and Distributed Systems Track](https://www.sigsac.org/ccs/CCS2023/)
+- [Security Standordisation Research (SSR 2023)](https://ssresearch2023.github.io/index.html)
+- [Financial Cryptography and Data Security 2023](https://fc23.ifca.ai)
+- [International Workshop on Cryptocurrencies and Blockchain Technology (CBT 2022), ESORICS 2022](https://deic.uab.cat/cbt/cbt2022/)
 - [Financial Cryptography and Data Security 2022](https://fc22.ifca.ai)
 - [3rd Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS)](https://brains.dnac.org)
 - [International Workshop on Cryptocurrencies and Blockchain Technology (CBT 2021), ESORICS 2021](https://deic-web.uab.cat/conferences/dpm/cbt2021/)
@@ -88,7 +96,9 @@ subtitle = ""
 - Security Standardization Research
 
 ### Organizing Committee
-- [Workshop on Coordination of Decentralized Finance (CoDecFin) 2021](https://fc20.ifca.ai/codecfin/)
+- [Workshop on Coordination of Decentralized Finance (CoDecFin) 2023](https://fc23.ifca.ai/codecfin/)
+- [Workshop on Coordination of Decentralized Finance (CoDecFin) 2022](https://fc22.ifca.ai/codecfin/)
+- [Workshop on Coordination of Decentralized Finance (CoDecFin) 2021](https://fc21.ifca.ai/codecfin/)
 - [Workshop on Coordination of Decentralized Finance (CoDeFi) 2020](https://fc20.ifca.ai/codefi/)
 - [Financial Cryptography 2013](https://fc13.ifca.ai)
 
@@ -99,7 +109,7 @@ subtitle = ""
 ### Editorial Board and Editorial Committee
 - [IEEE Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
 - Special Issue on Cryptography and Information Security,The Institute of Electronics, Information and Communication Engineers (2008-2010)
-- [LEDGER Journal](https://ledgerjournal.org/ojs/index.php/ledger)  (2015-)
+- [LEDGER Journal](https://ledgerjournal.org/ojs/index.php/ledger)  (2015-2020)
 
 ### Advisory Committee
 - [Scaling Bitcoin 2017](https://stanford2017.scalingbitcoin.org)
